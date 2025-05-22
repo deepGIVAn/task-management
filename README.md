@@ -1,13 +1,13 @@
-Schemas:-
+# Project Details/Schemas/running Enviroment:-
 
-User Login/Registering:-
-
+## User Login/Registering:-
+```bash
 User Model:
 Username
 Password
-
-Task Models:-
-
+```
+## Task Models:-
+```bash
 Task:
 Title
 Description
@@ -16,13 +16,13 @@ Due Date
 Completed
 created_at
 User - Foreign Key to User
-
+```
 ----------------------------------------------------------------------------------
 
-Tech Stack:
-
+## Tech Stack:
+```bash
 HTML, CSS, JavaScript / jQuery, Bootstrap, PHP, Supabase, Toastr , Datatables, Select2
-
+```
 To run this project need to start a local server for php.
 Like :- XAMPP or Wamp
 
